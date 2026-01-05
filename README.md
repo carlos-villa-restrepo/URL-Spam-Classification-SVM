@@ -41,6 +41,12 @@ Prueba  de URL SPAM
 [Prueba spam](assets/prueba-url-spam.png)
 
 
+## 🌐 Demo en línea
+
+Puedes probar la aplicación desplegada en el siguiente enlace:
+[https://url-spam-classification.streamlit.app](https://url-spam-classification.streamlit.app)
+
+
 ## Insignias
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
