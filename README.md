@@ -12,7 +12,7 @@
 ## 🛠️ Tecnologías utilizadas
 
 **Lenguaje:**Python 3.10
-**Streamli:** Para el despliegue de la interfaz web.
+**Streamlit:** Para el despliegue de la interfaz web.
 **Scikit-Learn:** Para el entrenamiento y ejecución del modelo SVM.
 **Joblib/Pickle:** Para la serialización del modelo y el vectorizador.
 
