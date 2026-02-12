@@ -23,7 +23,9 @@
    ```bash
    git clone <https://github.com/carlos-villa-restrepo/URL-Spam-Detector-Streamlit.git>
    ```
-
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
 ## 📁 Archivos del Modelo
 
